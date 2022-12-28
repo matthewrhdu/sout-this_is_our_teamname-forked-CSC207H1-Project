@@ -1,5 +1,9 @@
 # Team `sout("This_is_our_teamname")`
 
+**NOTE (28/12/2022): Due to the introduction of timetable builder at U of T, 
+the webscraper component of this project is largely deprecated. We 
+Apologize for any inconvenience.** 
+
 Welcome to our Team Repo! In this repo, please find our course project for 
 CSC207H1 F, Fall 2021 at the University of Toronto St.George.
 
